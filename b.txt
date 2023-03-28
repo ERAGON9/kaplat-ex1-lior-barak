@@ -1,1 +1,2 @@
 First line at file b.
+Add data: add second line at file b.
